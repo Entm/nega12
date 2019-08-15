@@ -1,2 +1,5 @@
-# nega12
-Adding Shopping list
+banana
+orange
+carot
+strawberry
+blue berry
